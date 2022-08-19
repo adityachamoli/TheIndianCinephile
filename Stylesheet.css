@@ -1,0 +1,87 @@
+body {
+  background-color: HoneyDew;
+  font-size: 120%;
+  text-decoration-color: White;
+}
+img {
+  margin: 15px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-color: Green;
+  border-collapse: separate;
+  margin: 15px;
+}
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  text-shadow: 1px 1px;
+  font-size: 250%;
+  color: LimeGreen;
+}
+h2 {
+   font-size: 120%;
+}
+h4 {
+  text-align: left;
+  font-size: 120%;
+}
+h3 {
+  text-align: center;
+}
+input {
+  margin-left: 3em;
+}
+select {
+  margin-left: 3em;
+}
+textarea {
+  margin-left: 3em;
+}
+.subhead_text {
+  background-color: PaleGreen;
+  margin: 15px;
+}
+.logo_image {
+  border-radius: 60%;
+  height: 10%;
+  width: 10%;
+}
+.quote_text {
+  text-align: right;
+  font-size: 130%;
+  margin: 15px;
+}
+.para_text {
+  font-size: 110%;
+  margin: 15px;
+}
+.movie_text {
+  color: DarkGreen;
+  font-style: oblique;
+  font-size: 140%;
+  margin: 15px;
+}
+.form_text {
+  color: DarkGreen;
+  font-size: 120%;
+  margin: 15px;
+}
+.input_class {
+  margin: 30px;
+}
+.button {
+  margin-left: 3em;
+}
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#footer_text {
+  text-align: center;
+  color: LimeGreen;
+}
